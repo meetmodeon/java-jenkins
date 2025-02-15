@@ -6,5 +6,6 @@ public class Main{
         System.out.println("This is java code");
         System.out.println(new Date());
         System.out.println("This is second commit");
+        System.out.println("This is Third commit");
     }
 }
